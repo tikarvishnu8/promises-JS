@@ -8,3 +8,10 @@ Promises States
 2. Fulfilled: Successful operation, promise resolved with a value.<br>
 3. Rejected: Failed operation, promise rejected with an error.
 
+In the promises we can learn<br>
+1) how to create promises.<br>
+2) why use promioses and where.<br>
+3) what is resolve and reject.<br>
+4) what is .then(), .catch() and .finally methods.<br>
+5) what is async and await, And what is try and catch blcok.
+6) 
