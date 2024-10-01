@@ -1,5 +1,5 @@
 //First example of promise with arrow function.
-
+// Uncommenet the code and run.
 /*console.log("Lets Learn about Promises");
 
 let prom1 = new Promise((resolve, reject)=>{
